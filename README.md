@@ -4,11 +4,18 @@
 使用多线程的脚本中设置的线程数为４。
 ![](https://github.com/smartczy/douban_movies_threading/raw/master/weather.png)
 
-＃ 结果
+## 结果
 使用多线程的脚本抓取所有数据总共耗时：23.54秒
 不使用多线程的脚本抓取所有数据总共耗时：92.48秒
 从结果可以看出，不使用多线程所消耗时间大约是使用多线程所耗时间的４倍，即为线程数。
 
+<<<<<<< HEAD
 ＃ 测试环境
 * Python 2.7.6
 * Ubuntu 14.04 32bit
+=======
+## 测试环境
+Python 2.7.6
+
+Ubuntu 14.04 32bit
+>>>>>>> fe0b8e2dac140c9f1d7115c1f399d83e5a2b4e31
